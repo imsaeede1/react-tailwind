@@ -1,6 +1,6 @@
 const Profile = () => {
   return (
-    <div className="bg-blue-purple opacity-90 row-span-6 h-[calc(100vh-10rem)] max-h-screen">
+    <div className="bg-blue-purple opacity-90 row-span-6 h-[calc(100vh)] max-h-screen">
       <div className="grid grid-cols-1 divide-y">
         <div className="text-purple-light text-start p-2">PROFILE</div>
         <div className="grid grid-cols-1 divide-y px-3">
