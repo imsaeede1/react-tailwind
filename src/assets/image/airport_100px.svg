@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+	<title>airport_100px</title>
+	<defs>
+		<image  width="100" height="100" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAAAAXNSR0IB2cksfwAAADNQTFRFAAAAgICAE14mE14mGV4qJl00Ll06T1tSKl03W1tbAAAAFV4oU1tVNl1AGF4qE14mFV0nmUraeQAAABF0Uk5TAAL/3P+c/4L/hwH/f4m34FLYSDgGAAABnklEQVR4nO3a23LCMAwEUFu90fQC//+1pe0wUxLF1q7XojOtnrUcKx5DCJQyq6p91zSg2I9KICYptq67+YTdP8w37PFpOmF2eFYSi2vYy6vQ8IlzvSUY9q4idi7VVy0io0HIDmPTECG3NzRIx5AgGcYxAekR5jWr56iNBZ1Ec1ikOcO4VCUNg5q3C5tmXGUnG9hisoyJCLZ9w0YOMkk5rg9V7WfgIg/vsKF29gwl0zBkTseQMH1j3IkZY0zYGHAgo3BnFDWYcRjjXKcEAxpnwCjh3RlDMiaJ7kuGMYIAxyXDoBHo2JNG6xmADIEMEsEMDgGNlPdgRsENHCEMGGEMFKEMEOGMlFsVCGENBAm9HKWgSyYQ7Ebu87ua/3kp3IT9jNhAEcrwYyKjNnMaY+kEtXNAo7BzTEMC2WEkkvWROBNK7iFBKBZrIX0pmPAf7gYhv9u5i40gfhLYzyDiROOdcWQ9i2Q9veifQDZKHKk8Qo8CtP4j4C9bcaT8NmTJQKBrq0EA4yop7d0Janv9oLjXDSLNqHEJ6ns3wfDfWtrGB5IRJXWi3wk9AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Background" href="#img1" x="0" y="0" />
+</svg>

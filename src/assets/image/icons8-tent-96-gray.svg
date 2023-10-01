@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="14" height="14">
+	<title>icons8-tent-96</title>
+	<defs>
+		<image  width="96" height="96" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgBAMAAAAQtmoLAAAAAXNSR0IB2cksfwAAACFQTFRFAAAAYmdjSGRPFV4nUGVVHl8vXmdgLGE6M2I+WGZbXGZe70qSKAAAAAt0Uk5TAP////////////99dn3VAAABF0lEQVR4nO2WMQ4CMQwE4x9kO3rewlv4E6+FAyG4xGt7JaBAcXEF8XjWnIJobdWqLxZwfx4FoLdmOAkAtsdZAboBhzJwa96ql4H2AOr9OmBioodC6ZcBOZK6tPweZADQMtkTqCoATWEvoKYANIW9AxUFICpUwPZAngnQFDYCmWLszxSTIFPM/YlCBZxEcSavP1K4gkjh93MFEXAF62eK/UUoXAvbz8yBoWPgs0SFqzptmaw9D0wUzrxQ4Y0LFe53EgGuPsjk24NMZBZVsFFUQSeRA6sBPfuYj6ICchS9UfcsELiHfGWyH1/ZHxcLnHmxwBmYCKaG/Pdn6MgSTZnSRGOmVDBe31ww/F35N6BSPwMudWDVqg/VFfL0Y2QyoT80AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Background" href="#img1" x="0" y="0" />
+</svg>

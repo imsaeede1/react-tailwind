@@ -1,0 +1,197 @@
+.the-home {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.the-home .text-color {
+  color: #0a410a;
+}
+
+.the-home .theCarouselArrow::before,
+.the-home .theCarouselArrow::after {
+  color: #0043fd;
+  font-size: 30px;
+}
+
+.the-home .flight-card {
+  background-image: url("../image/20211007_120242.jpg");
+  background-size: cover;
+  background-position: 0px 400px;
+}
+
+.the-home .nav {
+  padding-right: 40px;
+}
+
+.the-home .flightBtn {
+  border-color: #9e9e9e !important;
+}
+
+.the-home .flightBtn:hover {
+  background-color: transparent;
+}
+
+.the-home .flightBtn.active {
+  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+  background-color: transparent;
+}
+
+.the-home .button-height {
+  height: 50px;
+}
+
+.the-home .wayBtn.active {
+  border-top: 3px solid #0a410a !important;
+  border-radius: 0;
+}
+
+.the-home .shadowBtn:focus {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  outline: none;
+  border: none;
+}
+
+.the-home .way-color {
+  color: #6a63ad;
+}
+
+.the-home .btn-search {
+  width: 23%;
+}
+
+.the-home .w-90 {
+  width: 90%;
+}
+
+.the-home .round {
+  border-radius: 10px;
+}
+
+.the-home .service-padding {
+  padding: 10px;
+}
+
+.the-home .tourLabel1 {
+  right: 0;
+  top: 50px;
+  background-color: #c91d56;
+  color: white;
+  padding: 3px 11px;
+}
+
+.the-home .tourLabel2 {
+  right: 0;
+  top: 95px;
+  background-color: white;
+  color: #c91d56;
+  padding: 3px 9px;
+}
+
+.the-home .price {
+  color: #c91d56;
+}
+
+.the-home .tour-border-color {
+  border-color: #0a410a !important;
+}
+
+.the-home .required-item {
+  width: 16px;
+  height: 16px;
+}
+
+.the-home .size0 {
+  font-size: 10px;
+}
+
+.the-home .size2 {
+  font-size: 12px;
+}
+
+.the-home .size3 {
+  font-size: 13px;
+}
+
+.the-home .size5 {
+  font-size: 15px;
+}
+
+.the-home .button-padding {
+  padding: 9px 25px;
+}
+
+.the-home .button-background {
+  background-color: #e9e8e8;
+}
+
+.the-home .tour {
+  border: none;
+  -webkit-transition: none;
+  transition: none;
+}
+
+.the-home .tour.active {
+  border-bottom: 5px solid #0a410a !important;
+}
+
+.the-home .tour:hover {
+  border-bottom: 5px solid #ccd8cc;
+}
+
+@media screen and (max-width: 480px) {
+  .the-home .email {
+    width: 100% !important;
+    margin-bottom: 8px;
+  }
+  .the-home .tour {
+    padding: 7px;
+  }
+}
+
+.the-home .text-carousel {
+  margin-top: 20px;
+}
+
+.the-home .text-carousel-inner {
+  height: 100px;
+}
+
+.the-home .text-carousel-caption {
+  color: black;
+  top: 30%;
+}
+
+@media screen and (max-width: 650px) {
+  .the-home .owl-carousel .owl-prev {
+    top: 90%;
+    left: 40%;
+  }
+  .the-home .owl-carousel .owl-next {
+    top: 90%;
+    right: 40%;
+  }
+  .the-home .text-carousel {
+    width: 100% !important;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .the-home .btn-search {
+    width: 30%;
+  }
+}
+
+@media screen and (max-width: 790px) {
+  .the-home .btn-search {
+    width: 45%;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .the-home .btn-search {
+    width: 70%;
+  }
+}
+/*# sourceMappingURL=home.css.map */
